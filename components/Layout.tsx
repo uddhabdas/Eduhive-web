@@ -94,7 +94,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                    </div>
                    <div className="hidden sm:flex flex-col justify-center">
                       <span className="text-xl font-black text-gray-900 tracking-tight leading-none group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-emerald-600 group-hover:to-blue-600 transition-all duration-300">
-                        EduHive
+                        Learnexia
                       </span>
                       <span className="text-[10px] font-bold text-gray-500 uppercase tracking-[0.2em] leading-tight mt-0.5 group-hover:text-emerald-600 transition-colors duration-300">
                         Student
