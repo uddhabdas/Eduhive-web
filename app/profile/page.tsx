@@ -105,7 +105,8 @@ export default function ProfilePage() {
         ) : error ? (
            <div className="bg-red-500/10 border border-red-500/20 text-red-200 px-4 py-3 rounded-lg">{error}</div>
         ) : user ? (
-          <div className="space-y-8">
+          <div
+            className="space-y-8">
             {/* Premium Colorful Brand Header */}
             <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-emerald-50 via-blue-50 to-purple-50 shadow-2xl shadow-emerald-200/30 border-2 border-emerald-200/80 p-8 text-center group">
               <div className="absolute inset-0 bg-[url('https://grainy-gradients.vercel.app/noise.svg')] opacity-[0.15] mix-blend-soft-light"></div>
@@ -118,7 +119,7 @@ export default function ProfilePage() {
               
               <div className="relative z-10 flex flex-col items-center gap-4">
                 <h1 className="text-5xl sm:text-6xl font-black bg-gradient-to-r from-emerald-700 via-blue-600 to-purple-600 bg-clip-text text-transparent tracking-tighter drop-shadow-lg">
-                  EduHive
+                  Learnexia
                 </h1>
                 <div className="flex items-center gap-3 text-gray-600 font-bold text-sm tracking-widest uppercase">
                   <span>Student</span>
