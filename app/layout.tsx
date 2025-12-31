@@ -5,9 +5,9 @@ import Logo from "@/image.png";
 
 
 export const metadata: Metadata = {
-  title: "EduHive",
+  title: "Learnexia",
   description:
-    "User web experience for EduHive learning platform - browse courses, watch lectures, and manage your learning.",
+    "User web experience for Learnexia learning platform - browse courses, watch lectures, and manage your learning.",
   icons: {
     icon: Logo.src,
     shortcut: Logo.src,
