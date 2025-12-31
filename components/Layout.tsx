@@ -113,7 +113,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
     </div>
   </div>
-</div>
 
           <div className="flex items-center space-x-4">
             <div className="hidden md:flex items-center space-x-3 px-4 py-1.5 bg-gray-50 border border-gray-200 rounded-full backdrop-blur-md hover:bg-gray-100 transition-colors">
